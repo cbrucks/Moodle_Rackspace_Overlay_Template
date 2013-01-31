@@ -55,7 +55,7 @@ a:active {
     height: 50px;
     padding: 3px;
     display: block;
-    background: #fff url('http://www.rackspace.com/images/header/logo-rackspace.png') no-repeat center;
+    background: #fff url([[pix:theme|logo]]) no-repeat center;
     box-shadow: 2px 3px 3px #393939;
 }
 
