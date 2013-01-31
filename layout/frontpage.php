@@ -49,7 +49,8 @@ echo $OUTPUT->doctype() ?>
 	        <?php if ($hascustommenu) { ?>
  					<div id="custommenu"><?php echo $custommenu; ?></div>
 				<?php } ?>
-    	    <div class="headermenu">
+    	    <div class="companylogo"></div>
+            <div class="headermenu">
         		<?php
 	        	    echo $OUTPUT->login_info();
     	        	echo $OUTPUT->lang_menu();
