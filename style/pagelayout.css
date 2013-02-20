@@ -10,7 +10,7 @@ body {margin:auto 0px;
 #page-content {
     clear: both;
     position: relative;
-    width: 100%;
+    width: 95%;
     min-height: 100%;
 }
 #page-content #region-main-box {
@@ -48,8 +48,8 @@ body {margin:auto 0px;
 #page-content #region-post {
     float: right;
     position: relative;
-    left: 600px;
-    width: 200px;
+    left: 700px;
+    width: 300px;
     min-height: 100%;
 }
 #page-content #region-main .region-content {
