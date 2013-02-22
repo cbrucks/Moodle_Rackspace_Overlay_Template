@@ -18,7 +18,7 @@
  * Theme version info
  *
  * @package    theme
- * @subpackage overlay
+ * @subpackage rackspace_overlay
  * @copyright  2008 NodeThirtyThree (http://nodethirtythree.com/)
  * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
@@ -27,4 +27,4 @@ defined('MOODLE_INTERNAL') || die;
 
 $plugin->version   = 2012112900; // The current module version (Date: YYYYMMDDXX)
 $plugin->requires  = 2012112900; // Requires this Moodle version
-$plugin->component = 'theme_overlay'; // Full name of the plugin (used for diagnostics)
+$plugin->component = 'theme_rackspace_overlay'; // Full name of the plugin (used for diagnostics)
