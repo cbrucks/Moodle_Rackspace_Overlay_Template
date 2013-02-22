@@ -16,7 +16,7 @@
 // along with Moodle.  If not, see <http://www.gnu.org/licenses/>.
 
 /**
- * Configuration for Moodle's overlay theme.
+ * Configuration for Moodle's rackspace_overlay theme.
  *
  * DO NOT MODIFY THIS THEME!
  * COPY IT FIRST, THEN RENAME THE COPY AND MODIFY IT INSTEAD.
@@ -29,7 +29,7 @@
  * @license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 
-$THEME->name = 'overlay';
+$THEME->name = 'rackspace_overlay';
 
 ////////////////////////////////////////////////////
 // Name of the theme. Most likely the name of
@@ -177,7 +177,7 @@ $THEME->layouts = array(
 // specific page.
 ///////////////////////////////////////////////////////////////
 
-$THEME->csspostprocess = 'overlay_process_css';
+$THEME->csspostprocess = 'rackspace_overlay_process_css';
 
 ////////////////////////////////////////////////////
 // Allows the user to provide the name of a function
